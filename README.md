@@ -86,3 +86,8 @@ These visualizations aid in better understanding the trends and distributions wi
 This analysis provides valuable insights that can inform ABC Company’s workforce planning, salary management, and resource allocation. The company can use these findings to optimize team structures, salary budgeting, and career development programs.
 
 ---
+##### Getting Started 
+1.	Clone the Repository
+bash<br/>
+Copy code<br/>
+git clone https://github.com/MuhammedNaseemChemban/ABC-Company-Python.git<br/>
